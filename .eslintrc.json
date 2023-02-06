@@ -1,0 +1,7 @@
+{
+  "extends": "next",
+  "plugins": ["@limegrass/import-alias"],
+  "rules": {
+    "@limegrass/import-alias/import-alias": "warning"
+  }
+}
